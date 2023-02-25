@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "react-native-app",
-    "slug": "react-native-app",
+    "slug": "solardata-growatt",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7e7081ec-7728-4265-ba0b-cd84b2ae953c"
+      }
+    },
+    "owner": "maker0n"
   }
 }
