@@ -83,7 +83,6 @@ const styles = StyleSheet.create({
     justifyContent: 'space-around',
   },
   text: {
-    justifyContent: 'end',
     fontFamily: 'Orbitron',
   },
   reloadIcon: {

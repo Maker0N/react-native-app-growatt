@@ -54,12 +54,10 @@ const styles = StyleSheet.create({
   },
   copyright: {
     fontSize: 10,
-    justifyContent: 'end',
     fontFamily: 'Orbitron',
   },
   text: {
     width: '50%',
-    justifyContent: 'end',
     fontFamily: 'Orbitron',
   },
 })
